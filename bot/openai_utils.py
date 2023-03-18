@@ -4,7 +4,6 @@ import tiktoken
 import openai
 openai.api_key = config.openai_api_key
 
-
 CHAT_MODES = {
     "assistant": {
         "name": "👩🏼‍🎓 Assistant",
