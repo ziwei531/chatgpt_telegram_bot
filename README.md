@@ -20,7 +20,7 @@ This repo is forked from https://github.com/karfly/chatgpt_telegram_bot
     ```
 
 if Windows:
-    ```
+    ```bash
     move config/config.example.yml config/config.yml
     move config/config.example.env config/config.env
     ```
